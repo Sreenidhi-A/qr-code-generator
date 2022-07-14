@@ -1,1 +1,1 @@
-# youtube-video-downloader
+# qr code generator
